@@ -13,3 +13,5 @@
 
 * VIPER（View-Interactor-Presenter-Entity-Router）
 
+単一責任の原則のもと適切に分割するような設計
+
