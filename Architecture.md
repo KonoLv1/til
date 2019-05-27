@@ -11,5 +11,5 @@
 * MVVM（Model-View-ViewModel）
 
 
-*VIPER（View-Interactor-Presenter-Entity-Router）
+* VIPER（View-Interactor-Presenter-Entity-Router）
 
