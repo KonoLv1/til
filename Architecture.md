@@ -4,8 +4,12 @@
 
 設計思想・設計概念のこと
 
-* MVC
+* MVC（Model View Controller）
 
-* MVVM 
+アプリケーションの内部データを、ユーザーが直接参照・編集する情報から隔離する設計のこと。
 
-* VIPER
+* MVVM（Model-View-ViewModel）
+
+
+*VIPER（View-Interactor-Presenter-Entity-Router）
+
