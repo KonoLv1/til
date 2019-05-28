@@ -105,11 +105,11 @@
 
 # Size of stars in space ‰F’ˆ‚É‚ ‚é¯‚Ì‘å‚«‚³
 
-**Earth ’n‹…** 
+**Earth ’n‹…**<br> 
 12,742 km
 
-**Sun ‘¾—z** 
+**Sun ‘¾—z**<br>  
 1,391,000 km
 
-**VY Canis Majoris ‚¨‚¨‚¢‚ÊÀVY¯** 
+**VY Canis Majoris ‚¨‚¨‚¢‚ÊÀVY¯**<br> 
 2,500,000,000 km
