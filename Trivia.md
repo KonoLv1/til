@@ -108,7 +108,7 @@
 **Earth ’n‹…**<br> 
 12,742 km
 
-**Sun ‘¾—z**<br>  
+**Sun ‘¾—z**<br>
 1,391,000 km
 
 **VY Canis Majoris ‚¨‚¨‚¢‚ÊÀVY¯**<br> 
