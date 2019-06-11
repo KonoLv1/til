@@ -24,7 +24,7 @@
 
 アプリケーションの内部データを、ユーザが直接参照・編集する情報から隔離する設計のこと。
 
-* MVVM（Model-View-ViewModel)**
+* **MVVM（Model-View-ViewModel)**
 
 ## V
 
