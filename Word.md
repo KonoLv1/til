@@ -36,6 +36,20 @@ HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ğMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘
 
 * **MVVMiModel-View-ViewModel)**
 
+## O
+
+* **OpenFlow**
+
+ƒlƒbƒgƒ[ƒNã‚ÅƒXƒCƒbƒ`‚Ü‚½‚Íƒ‹[ƒ^[‚ÌƒtƒHƒ[ƒfƒBƒ“ƒOEƒvƒŒ[ƒ“‚Ö‚ÌƒAƒNƒZƒX‚ğ‰Â”\‚É‚·‚é’ÊMƒvƒƒgƒRƒ‹B
+
+## S
+
+* **Software Defined Networkingiƒ\ƒtƒgƒEƒFƒAƒfƒtƒ@ƒCƒ“ƒhƒlƒbƒgƒ[ƒLƒ“ƒOj**
+
+ƒ\ƒtƒgƒEƒFƒA‚É‚æ‚è_“î‚É§Œä‚Å‚«‚éƒlƒbƒgƒ[ƒLƒ“ƒO‚Ì‚±‚ÆB
+
+
+
 ## V
 
 * **VIPERiView-Interactor-Presenter-Entity-Routerj**
