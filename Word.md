@@ -28,6 +28,12 @@ WebƒTƒCƒg‚É‘Î‚µ‚Ä•K—vÅ’áŒÀ‚Ì”FØÝ’è‚ð‚©‚¯‚é‚±‚ÆBƒZƒLƒ…ƒŠƒeƒBƒŒƒxƒ‹‚Æ‚µ‚Ä‚Í’á‚
 
 HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘—‚éBBasic”FØ‚Å‚Í–h‚°‚È‚©‚Á‚½“’®‚â‰üâ‚‚ð–h‚®‚½‚ß‚ÉlˆÄ‚³‚ê‚½B
 
+## G
+
+* **GAFAiƒK[ƒtƒ@j**
+
+ƒAƒƒŠƒJ‡O‘‚É–{‹’‚ð’u‚­AGoogleAAmazon.comAFacebookAApple Inc. ‚Ì4‚Â‚ÌŽå—vITŠé‹Æ‚Ì“ª•¶Žš‚ðŽæ‚Á‚Ä‘Ì‚·‚éŒÄÌ
+
 ## M
 
 * **MVCiModel View Controllerj**
