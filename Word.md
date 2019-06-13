@@ -42,12 +42,21 @@ HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘
 
 ƒlƒbƒgƒ[ƒNã‚ÅƒXƒCƒbƒ`‚Ü‚½‚Íƒ‹[ƒ^[‚ÌƒtƒHƒ[ƒfƒBƒ“ƒOEƒvƒŒ[ƒ“‚Ö‚ÌƒAƒNƒZƒX‚ð‰Â”\‚É‚·‚é’ÊMƒvƒƒgƒRƒ‹B
 
+## P
+
+* **Penetration TestiƒyƒlƒgƒŒ[ƒVƒ‡ƒ“ƒeƒXƒgj**
+
+ƒlƒbƒgƒ[ƒNÚ‘±‚³‚ê‚Ä‚¢‚éƒRƒ“ƒsƒ…[ƒ^ƒVƒXƒeƒ€‚É‘Î‚µ‚ÄŽÀÛ‚ÉŠù’m‚Ì‹Zp‚ð—p‚¢‚ÄN“ü‚ðŽŽ‚Ý‚ÄƒVƒXƒeƒ€‚ÉÆŽã«‚ª‚È‚¢‚©”»’f‚·‚éƒeƒXƒgB
+
 ## S
 
 * **Software Defined Networkingiƒ\ƒtƒgƒEƒFƒAƒfƒtƒ@ƒCƒ“ƒhƒlƒbƒgƒ[ƒLƒ“ƒOj**
 
 ƒ\ƒtƒgƒEƒFƒA‚É‚æ‚è_“î‚É§Œä‚Å‚«‚éƒlƒbƒgƒ[ƒLƒ“ƒO‚Ì‚±‚ÆB
 
+* **Sales Force AutomationiƒZ[ƒ‹ƒXƒtƒH[ƒXƒIƒEƒgƒ[ƒVƒ‡ƒ“j**
+
+‰c‹ÆŽx‰‡ƒVƒXƒeƒ€‚Ì‚±‚ÆB
 
 
 ## V
