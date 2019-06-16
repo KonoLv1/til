@@ -24,7 +24,9 @@ WebƒTƒCƒg‚É‘Î‚µ‚Ä•K—vÅ’áŒÀ‚Ì”FØİ’è‚ğ‚©‚¯‚é‚±‚ÆBƒZƒLƒ…ƒŠƒeƒBƒŒƒxƒ‹‚Æ‚µ‚Ä‚Í’á‚
 
 “ŒvŠwAƒpƒ^[ƒ“”F¯AlH’m”\‚È‚Ç‚Ìƒf[ƒ^‰ğÍ‹Z–@‚ğ‘å—Ê‚Ìƒf[ƒ^‚É–Ô—…“I‚É“K—p‚·‚é‚±‚Æ‚Å’m¯‚ğæ‚èo‚·‹Zp‚Ì‚±‚Æ‚Å‚ ‚éB
 
-* **DDD**
+* **Domain Driven DesigniƒhƒƒCƒ“ƒhƒ‰ƒCƒuƒ“ƒfƒUƒCƒ“j**
+
+ƒ\ƒtƒgƒEƒFƒAİŒv‚Ìè–@
 
 * **Digest Authentication(Digest”FØ)**
 
