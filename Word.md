@@ -28,6 +28,10 @@ WebƒTƒCƒg‚É‘Î‚µ‚Ä•K—vÅ’áŒÀ‚Ì”FØÝ’è‚ð‚©‚¯‚é‚±‚ÆBƒZƒLƒ…ƒŠƒeƒBƒŒƒxƒ‹‚Æ‚µ‚Ä‚Í’á‚
 
 “ŒvŠwAƒpƒ^[ƒ“”FŽ¯AlH’m”\‚È‚Ç‚Ìƒf[ƒ^‰ðÍ‹Z–@‚ð‘å—Ê‚Ìƒf[ƒ^‚É–Ô—…“I‚É“K—p‚·‚é‚±‚Æ‚Å’mŽ¯‚ðŽæ‚èo‚·‹Zp‚Ì‚±‚Æ‚Å‚ ‚éB
 
+* **Digital Millennium Copyright ActiƒfƒBƒWƒ^ƒ‹ƒ~ƒŒƒjƒAƒ€ƒRƒs[ƒ‰ƒCƒgƒAƒNƒgj**
+
+ƒfƒWƒ^ƒ‹ƒRƒ“ƒeƒ“ƒc‚ÉŠÖ‚·‚é’˜ìŒ ‚ÌŠî€
+
 * **Domain Driven DesigniƒhƒƒCƒ“ƒhƒ‰ƒCƒuƒ“ƒfƒUƒCƒ“j**
 
 ƒ\ƒtƒgƒEƒFƒAÝŒv‚ÌŽè–@
