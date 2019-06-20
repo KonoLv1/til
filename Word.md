@@ -72,27 +72,27 @@ HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘
 
 ˆÀ‰¿‚È•¡”‘ä‚ÌŽ¥‹CƒfƒBƒXƒN‚ð‘g‚Ý‡‚í‚¹‚Ä‘S‘Ì‚Æ‚µ‚Ä‚‚¢M—Š«‚ð“¾‚é•ûŽ®
 
-** RAID 0 **
+**RAID 0**
 
 •¡”‚ÌƒfƒBƒXƒN‚Éƒf[ƒ^‚ð•ªŽU‚µ‚Ä‘‚«‚±‚ÞƒXƒgƒ‰ƒCƒsƒ“ƒO
 
-** RAID 1 **
+**RAID 1**
 
 2‘ä‚ÌŽ¥‹CƒfƒBƒXƒN‚É“¯‚¶“à—e‚ð‘‚«ž‚Þƒ~ƒ‰[ƒŠƒ“ƒO
 
-** RAID 2 **
+**RAID 2**
 
 ƒXƒgƒ‰ƒCƒsƒ“ƒO{ƒGƒ‰[’ù³—p‚Ìƒnƒ~ƒ“ƒO•„†‚ðƒfƒBƒXƒN‚É‘‚«ž‚ÞBÅ­‚Å‚à5‘ä\¬‚Æ‚È‚éB
 
-** RAID 3 **
+**RAID 3**
 
 ƒXƒgƒ‰ƒCƒsƒ“ƒO{ƒGƒ‰[C³—p‚ÉƒpƒŠƒeƒBƒrƒbƒg‚ð1‘ä‚ÌƒfƒBƒXƒN‚É‘‚«ž‚ÞB
 
-** RAID 4 **
+**RAID 4**
 
 RAID3‚ÌƒpƒŠƒeƒBƒrƒbƒg‚Ì‘‚«ž‚Ý‚ðƒuƒƒbƒN’PˆÊ‚Ås‚¤B
 
-** RAID 5 ** 
+**RAID 5** 
 
 ƒpƒŠƒeƒBƒrƒbƒg‚àƒf[ƒ^‚Æ“¯—l‚É•ªŽU‚µ‚Ä‘‚«ž‚ÞB
 
