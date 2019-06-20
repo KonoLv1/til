@@ -46,6 +46,21 @@ HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘
 
 ƒAƒƒŠƒJ‡O‘‚É–{‹’‚ð’u‚­AGoogleAAmazon.comAFacebookAApple Inc. ‚Ì4‚Â‚ÌŽå—vITŠé‹Æ‚Ì“ª•¶Žš‚ðŽæ‚Á‚Ä‘Ì‚·‚éŒÄÌ
 
+## H
+
+## I
+
+## J
+
+## K
+
+## L
+
+* ** Linux KerneliƒŠƒiƒbƒNƒXƒJ[ƒlƒ‹j**
+
+ƒƒ‚ƒŠŠÇ—Aƒtƒ@ƒCƒ‹ƒVƒXƒeƒ€AƒvƒƒZƒXŠÇ—AƒfƒoƒCƒX§Œä‚È‚ÇA‚n‚r‚Æ‚µ‚ÄƒRƒ“ƒsƒ…[ƒ^‚âƒAƒvƒŠƒP[ƒVƒ‡ƒ“ƒ\ƒtƒg‚ð§Œä‚·‚é‚½‚ß‚ÌÅ‚àŠî–{“I‹@”\‚¾‚¯‚ðŽÀ‘•‚µ‚½ƒ\ƒtƒgƒEƒFƒA‚Å‚·B
+ƒJ[ƒlƒ‹‚¾‚¯‚ÅƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ð“®ì‚³‚¹‚é‚±‚Æ‚Í‚Å‚«‚È‚¢‚½‚ßA‚n‚r‚Æ‚µ‚Ä‹@”\‚³‚¹‚é‚½‚ß‚É‚Íglibc‚È‚Ç‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚È‚Ç‚ð‘g‚Ý‡‚í‚¹‚é•K—v‚ª‚ ‚éB
+
 ## M
 
 * **MVCiModel View Controllerj**
@@ -53,6 +68,21 @@ HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘
 ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Ì“à•”ƒf[ƒ^‚ðAƒ†[ƒU‚ª’¼ÚŽQÆE•ÒW‚·‚éî•ñ‚©‚çŠu—£‚·‚éÝŒv‚Ì‚±‚ÆB
 
 * **MVVMiModel-View-ViewModel)**
+
+* **Multiple Instruction Single Dataiƒ}ƒ‹ƒ`ƒvƒ‹ƒCƒ“ƒXƒgƒ‰ƒNƒVƒ‡ƒ“ƒVƒ“ƒOƒ‹ƒf[ƒ^j**
+
+•¡”‚Ì–½—ß‚Å’Pˆê‚Ìƒf[ƒ^‚ðŽæ‚èˆµ‚¤•ûŽ®‚Ì•À—ñˆ—‚ðŽÀŒ»‚·‚éƒvƒƒZƒbƒT‚ÌƒA[ƒLƒeƒNƒ`ƒƒ
+—˜_ã‚Í‘¶Ý‚·‚é‚ªŽÀ‘•—á‚Í‚È‚¢B
+
+* **Multiple Instruction Multiple Dataiƒ}ƒ‹ƒ`ƒvƒ‹ƒCƒ“ƒXƒgƒ‰ƒNƒVƒ‡ƒ“ƒ}ƒ‹ƒ`ƒvƒ‹ƒf[ƒ^j**
+
+•¡”‚Ì–½—ß‚Å•¡”‚Ìƒf[ƒ^‚ðˆµ‚¤•ûŽ®‚Ì•À—ñˆ—‚ðŽÀŒ»‚·‚éƒvƒƒZƒbƒT‚ÌƒA[ƒLƒeƒNƒ`ƒƒ
+
+## N
+
+
+
+
 
 ## O
 
@@ -65,6 +95,8 @@ HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘
 * **Penetration TestiƒyƒlƒgƒŒ[ƒVƒ‡ƒ“ƒeƒXƒgj**
 
 ƒlƒbƒgƒ[ƒNÚ‘±‚³‚ê‚Ä‚¢‚éƒRƒ“ƒsƒ…[ƒ^ƒVƒXƒeƒ€‚É‘Î‚µ‚ÄŽÀÛ‚ÉŠù’m‚Ì‹Zp‚ð—p‚¢‚ÄN“ü‚ðŽŽ‚Ý‚ÄƒVƒXƒeƒ€‚ÉÆŽã«‚ª‚È‚¢‚©”»’f‚·‚éƒeƒXƒgB
+
+## Q
 
 ## R
 
@@ -106,9 +138,28 @@ RAID3‚ÌƒpƒŠƒeƒBƒrƒbƒg‚Ì‘‚«ž‚Ý‚ðƒuƒƒbƒN’PˆÊ‚Ås‚¤B
 
 ‰c‹ÆŽx‰‡ƒVƒXƒeƒ€‚Ì‚±‚ÆB
 
+* **Single Instruction Single DataiƒVƒ“ƒOƒ‹ƒCƒ“ƒXƒgƒ‰ƒNƒVƒ‡ƒ“ƒVƒ“ƒOƒ‹ƒf[ƒ^j**
+
+’Pˆê‚Ì–½—ß‚Å’Pˆê‚Ìƒf[ƒ^‚ðˆ—‚·‚é•ûŽ®‚Ì•À—ñˆ—‚ðŽÀŒ»‚·‚éƒvƒƒZƒbƒT‚ÌƒA[ƒLƒeƒNƒ`ƒƒ
+
+* **Single Instruction Multiple DataiƒVƒ“ƒOƒ‹ƒCƒ“ƒXƒgƒ‰ƒNƒVƒ‡ƒ“ƒ}ƒ‹ƒ`ƒvƒ‹ƒf[ƒ^j**
+
+’Pˆê‚Ì–½—ß‚Å•¡”‚Ìƒf[ƒ^‚ðˆ—‚·‚é•ûŽ®‚Ì•À—ñˆ—‚ðŽÀŒ»‚·‚éƒvƒƒZƒbƒT‚ÌƒA[ƒLƒeƒNƒ`ƒƒ
+
+## T
+
+## U
 
 ## V
 
 * **VIPERiView-Interactor-Presenter-Entity-Routerj**
 
 ’PˆêÓ”C‚ÌŒ´‘¥‚Ì‚à‚Æ“KØ‚É•ªŠ„‚·‚é‚æ‚¤‚ÈÝŒv
+
+## W
+
+## X
+
+## Y
+
+## Z
