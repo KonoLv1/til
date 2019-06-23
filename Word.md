@@ -48,6 +48,10 @@ HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘
 
 ## H
 
+* **Human Interface Guidelinesiƒqƒ…[ƒ}ƒ“ƒCƒ“ƒ^[ƒtƒF[ƒXƒKƒCƒhƒ‰ƒCƒ“j**
+
+‚·‚×‚Ä‚ÌƒOƒ‰ƒtƒBƒJƒ‹Eƒ†[ƒU[EƒCƒ“ƒ^[ƒtƒFƒCƒX—v‘f‚ªŒ©‚½–Ú‚ªˆêŠÑ‚µ‚Ä‚¢‚ÄA‚·‚×‚Ä‚Ìƒ†[ƒU[‚É‚Æ‚Á‚Ä–{”\“I‚Éƒ_ƒCƒAƒƒO‚ðŽg—p‚Å‚«‚é‚æ‚¤‚É‚·‚é‚½‚ß‚ÌƒKƒCƒhƒ‰ƒCƒ“B
+
 ## I
 
 ## J
