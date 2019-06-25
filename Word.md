@@ -67,6 +67,11 @@ HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘
 
 ## M
 
+* **Magic Numberiƒ}ƒWƒbƒNƒiƒ“ƒo[j**
+
+ƒvƒƒOƒ‰ƒ€ƒR[ƒh’†‚Ì‰½‚ðˆÓ}‚·‚é‚Ì‚©•ª‚©‚ç‚È‚¢”’l
+‰Â“Ç«‚ð‰º‚°ƒoƒO‚Ì—vˆö‚Æ‚È‚éB
+
 * **MVCiModel View Controllerj**
 
 ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Ì“à•”ƒf[ƒ^‚ðAƒ†[ƒU‚ª’¼ÚŽQÆE•ÒW‚·‚éî•ñ‚©‚çŠu—£‚·‚éÝŒv‚Ì‚±‚ÆB
