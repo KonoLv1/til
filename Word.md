@@ -1,4 +1,4 @@
-# ‹C‚É‚È‚é’PŒêƒŠƒXƒgx
+# ‹C‚É‚È‚é’PŒêƒŠƒXƒg
 
 ## A
 
@@ -28,6 +28,10 @@ WebƒTƒCƒg‚É‘Î‚µ‚Ä•K—vÅ’áŒÀ‚Ì”FØÝ’è‚ð‚©‚¯‚é‚±‚ÆBƒZƒLƒ…ƒŠƒeƒBƒŒƒxƒ‹‚Æ‚µ‚Ä‚Í’á‚
 * **CompileiƒRƒ“ƒpƒCƒ‹j**
 
 ƒvƒƒOƒ‰ƒ~ƒ“ƒOŒ¾Œê‚Å‘‚©‚ê‚½ƒ\[ƒX‚ðƒRƒ“ƒsƒ…[ƒ^ã‚ÅŽÀs‰Â”\‚ÈƒIƒuƒWƒFƒNƒgƒR[ƒh‚É•ÏŠ·‚·‚é‚±‚ÆB
+
+* **CSViComma Separated Valuej**
+
+ƒJƒ“ƒ}‹æØ‚è‚Ì’l‚ª“ü‚Á‚Ä‚¢‚éƒtƒ@ƒCƒ‹‚Ì‚±‚ÆB
 
 ## D
 
