@@ -112,6 +112,10 @@ HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘
 
 ## P
 
+* **Portable Document Formatiƒ|[ƒ^ƒuƒ‹EƒhƒLƒ…ƒƒ“ƒgEƒtƒH[ƒ}ƒbƒgj**
+
+ƒAƒhƒrƒVƒXƒeƒ€ŽÐ‚ªŠJ”­’ñ¥‚·‚é“dŽqã‚Ì•¶‘‚ÉŠÖ‚·‚éƒtƒ@ƒCƒ‹ƒtƒH[ƒ}ƒbƒgBŠg’£Žq‚Í.pdf
+
 * **Penetration TestiƒyƒlƒgƒŒ[ƒVƒ‡ƒ“ƒeƒXƒgj**
 
 ƒlƒbƒgƒ[ƒNÚ‘±‚³‚ê‚Ä‚¢‚éƒRƒ“ƒsƒ…[ƒ^ƒVƒXƒeƒ€‚É‘Î‚µ‚ÄŽÀÛ‚ÉŠù’m‚Ì‹Zp‚ð—p‚¢‚ÄN“ü‚ðŽŽ‚Ý‚ÄƒVƒXƒeƒ€‚ÉÆŽã«‚ª‚È‚¢‚©”»’f‚·‚éƒeƒXƒgB
