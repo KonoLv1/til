@@ -29,6 +29,12 @@ WebƒTƒCƒg‚Ι‘Ξ‚µ‚Δ•K—vΕ’αΐ‚Μ”FΨέ’θ‚π‚©‚―‚ι‚±‚ΖBƒZƒLƒ…ƒƒeƒBƒƒxƒ‹‚Ζ‚µ‚Δ‚Ν’α‚
 
 ƒvƒƒOƒ‰ƒ~ƒ“ƒOΎκ‚Ε‘‚©‚κ‚½ƒ\[ƒX‚πƒRƒ“ƒsƒ…[ƒ^γ‚Εΐs‰Β”\‚ΘƒIƒuƒWƒFƒNƒgƒR[ƒh‚Ι•Ο·‚·‚ι‚±‚ΖB
 
+* **Cross-Site Request ForgeriesiƒNƒƒXƒTƒCƒgƒƒNƒGƒXƒgƒtƒH[ƒWƒFƒj**
+
+CSRFiƒV[ƒT[ƒtj‚ΖΔ‚Ξ‚κ‚ι‚±‚Ζ‚ΰ‚ ‚ιB
+
+U‚Ò‚Νƒuƒ‰ƒEƒU‚Θ‚Η‚Μƒ†[ƒU[ƒNƒ‰ƒCƒAƒ“ƒg‚πιx‚µΣ}‚µ‚Θ‚ΆƒƒNƒGƒXƒg‚πWebƒT[ƒo‚Ι‘—M‚³‚Ή‚ιB
+
 * **CSViComma Separated Valuej**
 
 ƒJƒ“ƒ}‹ζΨ‚θ‚Μ’l‚ª“ό‚Α‚Δ‚Ά‚ιƒtƒ@ƒCƒ‹‚Μ‚±‚ΖB
