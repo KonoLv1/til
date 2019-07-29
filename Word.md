@@ -18,7 +18,7 @@ WebƒTƒCƒg‚É‘Î‚µ‚Ä•K—vÅ’áŒÀ‚Ì”FØÝ’è‚ð‚©‚¯‚é‚±‚ÆBƒZƒLƒ…ƒŠƒeƒBƒŒƒxƒ‹‚Æ‚µ‚Ä‚Í’á‚
 
 ## C
 
-** Camel caseiƒLƒƒƒƒ‹ƒP[ƒXj**
+* **Camel caseiƒLƒƒƒƒ‹ƒP[ƒXj**
 ’PŒê‚Ì“ª•¶Žš‚ð‘å•¶Žš‚É‚·‚é‚±‚ÆB–½–¼‹K‘¥‚Ìˆê‚ÂB
 
 * **ConflictiƒRƒ“ƒtƒŠƒNƒgj**
@@ -77,7 +77,7 @@ HTTP‚Ì”FØ•û–@‚Ìˆê‚ÂBƒ†[ƒU–¼‚ÆƒpƒXƒ[ƒh‚ðMD5‚ÅƒnƒbƒVƒ…iƒ_ƒCƒWƒFƒXƒgj‰»‚µ‚Ä‘
 
 ## L
 
-* ** Linux KerneliƒŠƒiƒbƒNƒXƒJ[ƒlƒ‹j**
+* **Linux KerneliƒŠƒiƒbƒNƒXƒJ[ƒlƒ‹j**
 
 ƒƒ‚ƒŠŠÇ—Aƒtƒ@ƒCƒ‹ƒVƒXƒeƒ€AƒvƒƒZƒXŠÇ—AƒfƒoƒCƒX§Œä‚È‚ÇA‚n‚r‚Æ‚µ‚ÄƒRƒ“ƒsƒ…[ƒ^‚âƒAƒvƒŠƒP[ƒVƒ‡ƒ“ƒ\ƒtƒg‚ð§Œä‚·‚é‚½‚ß‚ÌÅ‚àŠî–{“I‹@”\‚¾‚¯‚ðŽÀ‘•‚µ‚½ƒ\ƒtƒgƒEƒFƒA‚Å‚·B
 ƒJ[ƒlƒ‹‚¾‚¯‚ÅƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ð“®ì‚³‚¹‚é‚±‚Æ‚Í‚Å‚«‚È‚¢‚½‚ßA‚n‚r‚Æ‚µ‚Ä‹@”\‚³‚¹‚é‚½‚ß‚É‚Íglibc‚È‚Ç‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚È‚Ç‚ð‘g‚Ý‡‚í‚¹‚é•K—v‚ª‚ ‚éB
