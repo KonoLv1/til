@@ -186,6 +186,10 @@ RAID3のパリティビットの書き込みをブロック単位で行う。
 
 ## V
 
+* **VAGRANT（ベイグラント）**
+
+FLOSSの仮想機械を構築するためのソフトウェアである。
+
 * **VIPER（View-Interactor-Presenter-Entity-Router）**
 
 単一責任の原則のもと適切に分割するような設計
