@@ -33,7 +33,10 @@
 
 オブジェクト指向プログラミングにおいて、スーパークラスで定義されたメソッドをサブクラスで定義すること
 
-* **EDINET（Electronic Disclosure for Investors' NETwork - エディネット）**
+* **EDINET（Electronic Disclosure for Investors NETwork - エディネット）**
 
 金融商品取引上で開示用電子情報処理組織と呼ばれる電子情報開示システム
 
+* **NFV（Network Functions Virtualisation - ネットワーク機能の仮想化）**
+
+仮想化技術を利用してルータ、スイッチ、ファイアウォール、ロードバランサなどの機能を汎用サーバ内の仮想マシン上で動くソフトウェアとして実装するアーキテクチャのこと。
