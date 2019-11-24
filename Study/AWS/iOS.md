@@ -51,3 +51,11 @@ amplify configure
 ```cmd:terminal
 sugo gem install cocoapods
 ```
+** gemがどうたらこうたらでエラーになった場合は下記をterminalに入力するべし
+```cmd:terminal
+sugo gem install cocoapods -n /usr/local/bin
+```
+15.下記をターミナルに入力してpodfileを生成する
+```cmd:terminal
+pod init
+```
