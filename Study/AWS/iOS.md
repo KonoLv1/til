@@ -47,4 +47,7 @@ amplify configure
 11. ProfileNameはお好みで<br>
 12. iOSのページに移動する<br>
 13. ターミナルをXcodeのプロジェクトがあるディレクトリに移動させる
-14. 
+14. 下記をターミナルに入力しCocoapodsをインストールする
+```cmd:terminal
+sugo gem install cocoapods
+```
