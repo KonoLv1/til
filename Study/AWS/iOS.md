@@ -24,11 +24,12 @@
 3. AWSのアカウントを作成する（作成している人は4へ）<br>
 4. ターミナルに「npm install -g @aws-amplify/cli」と入力してamplify appをPCに落とす<br>
 失敗する場合は、Node.js（ver 8.0以降）及びnpm（ver 5.0以降）がインストールされているか確認する。<br>
+Node.jsのインストールの有無及びバージョンの確認
 
 ```cmd:terminal
 node -v
 ```
-
+npmのインストールの有無及びバージョンの確認
 ```cmd:terminal
 npm -v 
 ```
