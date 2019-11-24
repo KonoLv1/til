@@ -35,5 +35,7 @@ node -v
 ```cmd:terminal
 npm -v 
 ```
-5
-
+5. インストールが完了したら下記をターミナルに入力する<br>
+```cmd:terminal
+amplify configure
+```
