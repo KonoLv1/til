@@ -19,10 +19,10 @@
 
 ### AWS Amplifyを導入（Mac）
 
-1. AWS Amplifyの公式ページに飛ぶ（DevelopとDeployが表示されている）<br>
-2. Developを選択<br>
-3. AWSのアカウントを作成する（作成している人は4へ）<br>
-4. ターミナルに下記を入力してamplify appをPCに落とす<br>
+01. AWS Amplifyの公式ページに飛ぶ（DevelopとDeployが表示されている）<br>
+02. Developを選択<br>
+03. AWSのアカウントを作成する（作成している人は4へ）<br>
+04. ターミナルに下記を入力してamplify appをPCに落とす<br>
 ```cmd:terminal
 npm install -g @aws-amplify/cli
 ```
@@ -35,7 +35,16 @@ node -v
 ```cmd:terminal
 npm -v 
 ```
-5. インストールが完了したら下記をターミナルに入力する<br>
+05. インストールが完了したら下記をターミナルに入力する<br>
 ```cmd:terminal
 amplify configure
 ```
+06. Specify the AWS Regionは好みで<br>
+07. Specify the username of the new IAM userは好きな名前を<br>
+08. ウェブページにぶっ飛ばされるので設定する
+09. accessKeyIDに発行されたアクセスキーをコピペ<br>
+10. secretAccessKeyに発行されたシークレットアクセスキーを以下略<br>
+11. ProfileNameはお好みで<br>
+12. iOSのページに移動する<br>
+13. ターミナルをXcodeのプロジェクトがあるディレクトリに移動させる
+14. 
