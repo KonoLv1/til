@@ -25,11 +25,11 @@
 4. ターミナルに「npm install -g @aws-amplify/cli」と入力してamplify appをPCに落とす<br>
 失敗する場合は、Node.js（ver 8.0以降）及びnpm（ver 5.0以降）がインストールされているか確認する。<br>
 
-```cmd
+```cmd:terminal
 node -v
 ```
 
-```terminal
+```cmd:terminal
 npm -v 
 ```
 5
