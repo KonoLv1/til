@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>アップロード画面</title>
+  </head>
+
+  <body>
+    <!-- method [通常はサイズ制限のない post]  enctype [ファイル転送のデータの種類] action [データ転送先] -->
+    <form method="post" enctype="multipart/form-data" action="receive.php">
+      <p>タイトル：<input type="text" name ="title"></p>
+      <p>写真説明：<input type="text" name ="info"></p>
+      <p>撮影日時：<input type="text" name ="upload"></p>
+      <p>検索文字：<input type="text" name ="search"></p>
+      <!-- name [送り先で受け取るときの名前] -->
+      <p><input type="file" name="upfile"></p>
+      <!-- 送信ボタン -->
+      <p><input type="submit" value="アップロード"></p>
+    </form>
+  </body>
+</html>
+
+<!-- © Junichi Koyama @Twitter@KonoLv1 / https://github.com/KonoLv1 -->
